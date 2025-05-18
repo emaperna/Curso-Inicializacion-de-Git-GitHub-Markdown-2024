@@ -27,3 +27,8 @@ Bienvenido a este proyecto. Aquí encontrarás información sobre el uso de **Gi
 - Enlaces y imágenes.
 
 ## Hojas de referencia
+
+---
+
+## ⚠️ Derechos Reservados  
+**© 2024 - Todos los derechos reservados**
